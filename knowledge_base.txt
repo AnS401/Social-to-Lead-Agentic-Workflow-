@@ -1,0 +1,6 @@
+AutoStream Product Information:
+- Basic Plan: Costs $29/month. Includes 10 videos per month and 720p resolution.
+- Pro Plan: Costs $79/month. Includes unlimited videos, 4K resolution, AI captions, and 24/7 support.
+- Refund Policy: No refunds are provided after 7 days of purchase.
+- Support Policy: 24/7 support is only available to users on the Pro plan. Basic plan users can access email support during business hours.
+- General: AutoStream is an AI-powered platform for automated video editing for content creators.

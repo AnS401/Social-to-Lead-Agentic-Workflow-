@@ -15,7 +15,9 @@ Run:
 
 Bash
 python main.py
+
 View Leads:
+
 After a successful lead capture, a leads.db file will be created along with faiss index folder. You can view the stored leads using any SQLite viewer. 
 
 Architecture Explanation (≈200 words):

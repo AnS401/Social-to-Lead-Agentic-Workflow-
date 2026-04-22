@@ -21,7 +21,7 @@ View Leads:
 
 After a successful lead capture, a leads.db file will be created along with faiss index folder. You can view the stored leads using any SQLite viewer. 
 
-Architecture Explanation (≈200 words):
+Architecture Explanation:
 
 I chose LangGraph for this architecture because it provides a state-first approach to conversation design, which is essential for multi-turn lead qualification. Unlike linear chains, LangGraph allows the agent to maintain a "reasoning loop," ensuring the agent can capture missing data points even if the user asks an unrelated question in between.
 
